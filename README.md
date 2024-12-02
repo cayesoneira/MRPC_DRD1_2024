@@ -8,7 +8,9 @@ The [documentation page of the detector](http://nuc1.fis.ucm.es/minitrasgo/) inc
 
 ## Repository Structure
 
-### 1. **[MRPC_DRD1_LAB.ipynb](MRPC_DRD1_LAB.ipynb)** <a target="_blank" href="https://colab.research.google.com/github/cayesoneira/MRPC_DRD1_2024/blob/main/MRPC_DRD1_LAB.ipynb">
+### 1. **[MRPC_DRD1_LAB.ipynb](MRPC_DRD1_LAB.ipynb)**
+
+<a target="_blank" href="https://colab.research.google.com/github/cayesoneira/MRPC_DRD1_2024/blob/main/MRPC_DRD1_LAB.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
