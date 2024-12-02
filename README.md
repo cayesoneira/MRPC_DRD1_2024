@@ -2,6 +2,8 @@
 
 Welcome to the **MRPC_DRD1_2024** repository! This repository serves as a comprehensive tool for **Lab 6.B: MRPC Characterization**, part of the **DRD1 Gaseous Detectors School** at CERN (November 27–December 6, 2024). It includes all the resources required to conduct the session, focusing on the analysis of MRPC data and high voltage (HV) scans.
 
+The (documentation page of the detector)[http://nuc1.fis.ucm.es/minitrasgo/] includes instructions on several functions as the HV modification, for example.
+
 ---
 
 ## Repository Structure
